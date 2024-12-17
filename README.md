@@ -1,5 +1,3 @@
-Here's a README for your solution based on the provided format:
-
 ---
 
 # File Line Extractor
